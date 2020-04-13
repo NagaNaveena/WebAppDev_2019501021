@@ -10,6 +10,11 @@ p::selection {
     color: red;
     background-color: yellow;
 }
+#sample {
+    font-size: 18px;
+    font-weight: bold;
+    color:blue;
+}
 @media (min-width: 500px) {
     .DisplayPage :: before {
         color:blue;
